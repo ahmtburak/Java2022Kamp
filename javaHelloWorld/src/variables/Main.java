@@ -11,6 +11,7 @@ public class Main {
 		System.out.println(mesaj + ogrenciSayisi);
 		System.out.println(mesaj + ogrenciSayisi);
 		System.out.println(mesaj + ogrenciSayisi);
+		System.out.println(mesaj + ogrenciSayisi);
 
 
 	}
